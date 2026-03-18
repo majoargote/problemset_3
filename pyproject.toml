@@ -5,11 +5,18 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+<<<<<<< HEAD
     "asttokens>=3.0.1",
+=======
+>>>>>>> d0cda27ae4f9d18d0cf8aed484697d2220fc7ba3
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.8",
     "networkx>=3.6.1",
     "numpy>=2.4.3",
     "pandas>=3.0.1",
     "record>=4.2",
+<<<<<<< HEAD
+=======
+    "scipy>=1.17.1",
+>>>>>>> d0cda27ae4f9d18d0cf8aed484697d2220fc7ba3
 ]
